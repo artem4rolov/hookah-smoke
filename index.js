@@ -14,7 +14,7 @@ let CATALOG = [];
 // https://api.jsonbin.io/v3/b/62fe50935c146d63ca74b11d
 // server/catalog.json
 
-fetch('http://myjson.dit.upm.es/api/bins/h6j0')
+fetch('server/catalog.json')
     .then(res => res.json())
     .then(data => {
         CATALOG = data;
