@@ -1,0 +1,25 @@
+.contacts-content {
+    width: 80%;
+    max-width: 1200px;
+    margin: 150px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content__item-bold {
+    font-weight: bold;
+}
+
+.contacts-content__item {
+    margin: 15px 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 750px) {
+    .contacts-content {
+        display: flex;
+        flex-direction: column;
+    }
+}

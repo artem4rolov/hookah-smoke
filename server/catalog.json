@@ -1,0 +1,157 @@
+[
+    {
+      "id": 1,
+      "category": "кальяны",
+      "name": "Union Hookah Sleek Кракле Голубой",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/26/2be5a1c7c7beed19bb4303171e48883cfb66f071.jpeg",
+      "price": 6900
+    },
+    {
+      "id": 2,
+      "category": "кальяны",
+      "name": "Union Hookah Sleek Кракле Желтый",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/26/e57b678b1b089ca298884f599dd9f6486c6e7832.jpeg",
+      "price": 7200
+    },
+    {
+      "id": 3,
+      "category": "кальяны",
+      "name": "Alpha Hookah - Model S Green Candy (Зеленый лаковый)",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/22/d381eded9bd0f42b5bb5c70b5577fc872cc53a99.jpeg",
+      "price": 12890
+    },
+    {
+      "id": 4,
+      "category": "кальяны",
+      "name": "Alpha Hookah Beat",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/29/90c723d2ef75a08c682b221bd0d5947133680b54.png",
+      "price": 11390
+    },
+    {
+      "id": 5,
+      "category": "кальяны",
+      "name": "Conceptic Design Red Carbon Purple Black Shisha",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/28/c64538f3af656533e2cdc9f574a6a5e90c40885a.jpeg",
+      "price": 8900
+    },
+    {
+      "id": 6,
+      "category": "кальяны",
+      "name": "Alpha Hookah - Model X Green",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/15/ada73d3e39eb1966b12d3c8caafcd605b05edfcd.jpeg",
+      "price": 9000
+    },
+    {
+      "id": 7,
+      "category": "кальяны",
+      "name": "Mamay Customs Coilovers Micro Зеленый/Черный",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/27/12d910e7a8e547b9908625e038d283b1906fd9a7.jpeg",
+      "price": 7900
+    },
+    {
+      "id": 8,
+      "category": "аксессуары",
+      "name": "Колпак высокий",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/16/1d14069a2e530f99f2905a0f16b306c2b88c215f.jpeg",
+      "price": 400
+    },
+    {
+      "id": 9,
+      "category": "аксессуары",
+      "name": "Персональный мундштук Comics Mortal Kombat",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/33/699123ea6343b0f3389c80cd4332116efbc351b0.jpeg",
+      "price": 450
+    },
+    {
+      "id": 10,
+      "category": "аксессуары",
+      "name": "Плитка для угля Hot Plate",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/07/062d56862620047660d2e724efab28843cd3bd45.jpeg",
+      "price": 975
+    },
+    {
+      "id": 11,
+      "category": "аксессуары",
+      "name": "Уплотнитель для колбы силиконовый",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/14/dca7fb8247810e95fac034386c0a0c17aed12f61.jpeg",
+      "price": 50
+    },
+    {
+      "id": 12,
+      "category": "аксессуары",
+      "name": "Шило Games of War (Золото)",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/22/86ebc8addd3299689a8030c741ef2fd24064243d.jpeg",
+      "price": 180
+    },
+    {
+      "id": 13,
+      "category": "аксессуары",
+      "name": "Жидкость в колбу 1 Emotion (голубой)",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/16/f6fd43641f68acd456abe8fa48bb689df1193666.jpeg",
+      "price": 150
+    },
+    {
+      "id": 14,
+      "category": "аксессуары",
+      "name": "Ёршик для шахты",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/16/57655823d0ef6d9c333911fde0d17b345159ff50.jpeg",
+      "price": 300
+    },
+    {
+      "id": 15,
+      "category": "смеси",
+      "name": "Brusko BIT - Инжирное варенье 20 г",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/31/68903525b61a3dddd5d25951b234f1bff71fcf0f.png",
+      "price": 90
+    },
+    {
+      "id": 16,
+      "category": "смеси",
+      "name": "Duft Intro - Banana Gum (Банановая жвачка) 50г",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/31/f83705064e69d5e155050bdb5b12aa09ec0a6b24.png",
+      "price": 175
+    },
+    {
+      "id": 17,
+      "category": "смеси",
+      "name": "Space Smoke - Watermelon Alien (Арбуз) 30г",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/25/f3b282d5d6cf81febd1588c19042cee44eba81bd.jpeg",
+      "price": 180
+    },
+    {
+      "id": 18,
+      "category": "смеси",
+      "name": "Malaysian Mix - Mint (Мята) 50г",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/25/eede217217356ff0169b1b0ad582d04bbe91f9b2.jpeg",
+      "price": 170
+    },
+    {
+      "id": 19,
+      "category": "смеси",
+      "name": "Malaysian X - Juicy Berries 50г",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/31/5ca76c2aaa992cef997ed6c0967dfc5daf01edb7.jpeg",
+      "price": 190
+    },
+    {
+      "id": 20,
+      "category": "смеси",
+      "name": "Чайная смесь M18 Wild Berry (Дикие Ягоды) 50г",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/26/412acfd3c8c61aa08b010312fef470779665fac8.jpeg",
+      "price": 210
+    },
+    {
+      "id": 21,
+      "category": "смеси",
+      "name": "Banger - Choker (Шоколад, Мята) 25 гр",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/31/a3a92d2dcc3b0b2ead5abc435d27aab473261369.jpeg",
+      "price": 220
+    },
+    {
+      "id": 22,
+      "category": "смеси",
+      "name": "Brusko BIT - Инжирное варенье 20 г",
+      "img": "https://volgograd-sweet-smoke.ru/media/cache/app_product_index_pic/uploads/media/shop_product/0001/31/68903525b61a3dddd5d25951b234f1bff71fcf0f.png",
+      "price": 150
+    }
+    
+  ]

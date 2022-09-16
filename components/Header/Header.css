@@ -1,0 +1,104 @@
+/* файл стилей хэдера */
+
+.header-container {
+    position: fixed;
+    top: 0;
+    padding: 10px 10px;
+    width: 100%;
+    background-color: var(--color-unaccent);
+    opacity: 0.9;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 10;
+}
+
+
+.header-logo__img {
+    width: 50px;
+    height: 50px;
+}
+
+.header-menu {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: center;
+    align-items: center;
+}
+
+.header-menu a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+
+.header-menu a:hover {
+    color: white;
+}
+
+.header-filter__price {
+    cursor: pointer;
+}
+
+.header-shopping {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.header-shopping__img {
+    width: 50px;
+    height: 50px;
+}
+
+.header-shopping__count {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+/* фильтр */
+
+
+.filter-trigger {
+    cursor: pointer;
+    position: relative;
+}
+
+.filter-trigger:hover {
+    color: white;
+}
+
+.filter-list {
+    position: absolute;
+}
+
+.filter-item {
+    display: none;
+    padding: 10px 10px;
+}
+
+.filter-trigger:hover .filter-item {
+    display: block;
+    background: #505050;
+    width: 200px;
+}
+
+.filter-trigger:hover
+.filter-list .filter-item:hover {
+    cursor: pointer;
+    background: var(--color-purple);
+    color: white;
+}
+
+@media (max-width: 576px) {
+    .header-menu {
+        width: 20%;
+        font-size: 20px;
+        flex-direction: column;
+    }
+}
