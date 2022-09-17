@@ -12,11 +12,7 @@ class Contacts {
                     <span>hookah@smoke.ru</span>
                 </div>
                 <div class="contacts-content__item">
-<<<<<<< HEAD
                     <iframe class="map" src="https://www.google.com/maps/d/u/0/embed?mid=1dnaTMSgO-D_wIgcZkd_uL3jOKWfWjoA&ehbc=2E312F"></iframe>
-=======
-                    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1dnaTMSgO-D_wIgcZkd_uL3jOKWfWjoA&ehbc=2E312F" width="100%" height="400"></iframe>
->>>>>>> f2ebf8c3edb714dcb11ddf14b0feb4b9c707ed00
                 </div>
             </div>
         `;
