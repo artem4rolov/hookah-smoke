@@ -17,6 +17,12 @@
     flex-direction: column;
 }
 
+.map {
+    height: 400px;
+    width: 100%;
+    min-width: 320px;
+}
+
 @media (max-width: 750px) {
     .contacts-content {
         display: flex;
